@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham More</h1>
 <!-- <h3 align="center">A aspiring blockchain from India</h3> -->
 
-- 🌱 I’m currently learning **Web 3**
+- 🌱 I’m a **Web 3** Developer
 
 - 📫 How to reach me **shubham.more@iitgn.ac.in**
 
