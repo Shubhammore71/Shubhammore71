@@ -2,6 +2,7 @@
 <!-- <h3 align="center">A aspiring blockchain from India</h3> -->
 
 - 🌱 I’m a **Web 3** Developer
+- 🌱SOLANA
 
 - 📫 How to reach me **shubham.more@iitgn.ac.in**
 
