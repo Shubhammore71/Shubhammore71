@@ -12,8 +12,7 @@
 <a href="https://twitter.com/shubhammore71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubhammore71" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shubham-more-4a2540254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-more-4a2540254" height="30" width="40" /></a>
 <a href="https://instagram.com/__shubham_710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__shubham_710" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@shubhammore710
-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucoj2_cg8g6v5zafytzwjsvw" height="30" width="40" /></a>
+<a href="https://youtube.com/@shubhammore710?si=YSo_cpPTa0mA4r6U" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucoj2_cg8g6v5zafytzwjsvw" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shubham_710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubham_710" height="30" width="40" /></a>
 <a href="https://discord.gg/shubham_710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shubham_710" height="30" width="40" /></a>
 </p>
