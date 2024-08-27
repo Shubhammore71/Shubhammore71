@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham More</h1>
 <h2 align="center">I’m a Web 3 Developer</h2>
 
-- 👨‍💻 All of my projects are available at [https://shubhammore710.netlify.app/](https://shubhammore710.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://shubhamweb3.netlify.app/)
 
 - 📫 How to reach me **shubham.more@iitgn.ac.in**
 
