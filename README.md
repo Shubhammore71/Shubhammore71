@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **shubham.more@iitgn.ac.in**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1KftbAFF3t7zv1VThFPYjdSAi1lxqRyhQ/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19bhvicqh1ZidnvR5rUNqw5XTRTKeFguC/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
