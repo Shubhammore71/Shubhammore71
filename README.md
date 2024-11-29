@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham More</h1>
 <h2 align="center">I’m a Web 3 Developer</h2>
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://shubhamweb3.netlify.app/)
-
 - 📫 How to reach me **shubham.more@iitgn.ac.in**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19bhvicqh1ZidnvR5rUNqw5XTRTKeFguC/view?usp=sharing)
