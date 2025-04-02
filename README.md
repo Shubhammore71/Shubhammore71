@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Shubham More</h1>
-<h2 align="center">I’m a Web 3 Developer</h2>
 
 - 📫 How to reach me **shubham.more@iitgn.ac.in**
 
