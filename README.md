@@ -2,8 +2,6 @@
 
 - 📫 How to reach me **shubham.more@iitgn.ac.in**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1DRz4YzrdOCJUdzjRzwSJ_cU7mkLIUxat/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shubhammore71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubhammore71" height="30" width="40" /></a>
